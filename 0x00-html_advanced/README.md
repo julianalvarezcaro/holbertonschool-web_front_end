@@ -14,7 +14,7 @@
 ### 3. Simple header, main, footer
     Adds a simple header, main, and footer
 ### 4. Aside
-
+    Adds a basic aside tag
 ### 5. Section
 
 ### 6. Work, News, Testimonial articles
