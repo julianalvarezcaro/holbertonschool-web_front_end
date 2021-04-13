@@ -3,10 +3,13 @@
 ## Tasks:
 
 ### 0. Create your first webpage
+    Created a basic page to be barely opened in the browser.
 
 ### 1. Structure your webpage
+    Added a basic structure to the page.
 
 ### 2. The head - meta charset, viewport, title, description, favicons
+    Added appropiate metadata to the page and also favicon.
 
 ### 3. Simple header, main, footer
 
