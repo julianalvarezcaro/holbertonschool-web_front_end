@@ -33,8 +33,10 @@
     Adds some h2 tags in the sections created before
 
 ### 10. Level 3 headings
+    Adds some h3 tags with some text
 
 ### 11. styleguide
+    Creates a page for styleguide
 
 ### 12. Paragraphs
 
