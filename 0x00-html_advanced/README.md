@@ -27,6 +27,7 @@
     Adds an empty nav tag
 
 ### 8. Level 1 headings
+    Adds a h1 tag
 
 ### 9. Level 2 headings
 
