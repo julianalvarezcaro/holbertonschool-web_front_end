@@ -16,7 +16,7 @@
 ### 4. Aside
     Adds a basic aside tag
 ### 5. Section
-
+    Creates a series of section tags
 ### 6. Work, News, Testimonial articles
 
 ### 7. Navigation
