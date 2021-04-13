@@ -24,6 +24,7 @@
     Adds a series of new article tags
 
 ### 7. Navigation
+    Adds an empty nav tag
 
 ### 8. Level 1 headings
 
