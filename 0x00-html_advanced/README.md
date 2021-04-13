@@ -63,6 +63,7 @@
     Creates 3 more pages equal to the on at task 18 but the title is different in each of those.
 
 ### 20. Add links
+    Created navigation links
 
 ### 21. Add social media links
 
