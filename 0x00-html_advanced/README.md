@@ -39,6 +39,7 @@
     Creates a page for styleguide
 
 ### 12. Paragraphs
+    Adds some paragraphs to the page
 
 ### 13. styleguide paragraphs
 
