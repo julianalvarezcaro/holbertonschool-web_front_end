@@ -30,6 +30,7 @@
     Adds a h1 tag
 
 ### 9. Level 2 headings
+    Adds some h2 tags in the sections created before
 
 ### 10. Level 3 headings
 
