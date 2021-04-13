@@ -42,14 +42,19 @@
     Adds some paragraphs to the page
 
 ### 13. styleguide paragraphs
+    Adds more styleguides
 
 ### 14. Span
+    Adds a simple span tag
 
 ### 15. Div
+    Adds div in all the sections for a better organization
 
 ### 16. Structure your sections
+    Adds headers and more divs to the sections
 
 ### 17. Comments
+    Adds comments to read the code easier
 
 ### 18. link your logo
 
