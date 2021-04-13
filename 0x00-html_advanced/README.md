@@ -12,53 +12,55 @@
     Adds appropiate metadata to the page and also favicon.
 
 ### 3. Simple header, main, footer
-    Adds a simple header, main, and footer
+    Adds a simple header, main, and footer.
 
 ### 4. Aside
-    Adds a basic aside tag
+    Adds a basic aside tag.
 
 ### 5. Section
-    Creates a series of section tags
+    Creates a series of section tags.
 
 ### 6. Work, News, Testimonial articles
-    Adds a series of new article tags
+    Adds a series of new article tags.
 
 ### 7. Navigation
-    Adds an empty nav tag
+    Adds an empty nav tag.
 
 ### 8. Level 1 headings
-    Adds a h1 tag
+    Adds a h1 tag.
 
 ### 9. Level 2 headings
-    Adds some h2 tags in the sections created before
+    Adds some h2 tags in the sections created before.
 
 ### 10. Level 3 headings
-    Adds some h3 tags with some text
+    Adds some h3 tags with some text.
 
 ### 11. styleguide
-    Creates a page for styleguide
+    Creates a page for styleguide.
 
 ### 12. Paragraphs
-    Adds some paragraphs to the page
+    Adds some paragraphs to the page.
 
 ### 13. styleguide paragraphs
-    Adds more styleguides
+    Adds more styleguides.
 
 ### 14. Span
-    Adds a simple span tag
+    Adds a simple span tag.
 
 ### 15. Div
-    Adds div in all the sections for a better organization
+    Adds div in all the sections for a better organization.
 
 ### 16. Structure your sections
-    Adds headers and more divs to the sections
+    Adds headers and more divs to the sections.
 
 ### 17. Comments
-    Adds comments to read the code easier
+    Adds comments to read the code easier.
 
 ### 18. link your logo
+    Adds a link to the root of the folder.
 
 ### 19. Create new pages
+    Creates 3 more pages equal to the on at task 18 but the title is different in each of those.
 
 ### 20. Add links
 
