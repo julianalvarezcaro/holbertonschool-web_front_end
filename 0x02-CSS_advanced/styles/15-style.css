@@ -33,7 +33,7 @@
   --section-title-color: var(--color-black);
 }
 
-* {
+*, *::before, *::before {
   box-sizing: border-box;
 }
 
