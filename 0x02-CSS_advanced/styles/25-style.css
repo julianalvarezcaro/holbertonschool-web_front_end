@@ -112,7 +112,7 @@ a:active {
   background-color: var(--button-hover-background);
 }
 
-html[data-section-theme="dark"] {
+[data-section-theme="dark"] {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   --button-color: var(--color-white);
