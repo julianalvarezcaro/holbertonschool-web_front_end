@@ -89,7 +89,7 @@ a:active {
 }
 
 .row::after {
-  content: none;
+  content: "";
   clear: both;
   display: table;
 }
