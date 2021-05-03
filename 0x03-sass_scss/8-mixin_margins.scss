@@ -5,9 +5,9 @@
 }
 
 body {
-    @include margins(10);
+    @include margins(10px);
 }
 
 div {
-    @include margins(15);
+    @include margins(15px);
 }
