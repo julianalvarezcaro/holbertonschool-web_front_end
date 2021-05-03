@@ -1,0 +1,13 @@
+/* Task 8 */
+@mixin margins($values) {
+    margin-left: $values;
+    margin-right: $values;
+}
+
+body {
+    @include margins(10);
+}
+
+div {
+    @include margins(15);
+}
